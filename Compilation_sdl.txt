@@ -1,0 +1,1 @@
+gcc -Wall -g  -std=c99 main.c sdl-light.c -lmingw32 -lSDLmain -lSDL -o niveau1
